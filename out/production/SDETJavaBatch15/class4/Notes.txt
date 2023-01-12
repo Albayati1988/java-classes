@@ -1,0 +1,19 @@
+Operators:
+    operators are different symbols that we can use to perform operations like addition subtractions we can compare
+    thing if two entities are same or not if a numbers greater than the other number or not.
+    there are three type of operators. They are arithmetic operators, Relational operator and logical operators.
+Arithmetic operators :
+    We use Arithmetic operators to perform simple math operations. Like addition, subtraction etc.
+    + ==> addition
+    - ==> subtraction
+    /==> Division
+    * ==> multiplication
+    % ==> modulus , remainder
+
+
+Relational operator.
+    relational operators are used to compare two quantities or entities. for example if something is bigger than
+    other thing or if two numbers are same or not or if two boolean variables contain same values or not .
+    == => used to check if two variables contain the same value or not if dame w get true otherwise we get false.
+    != => used to check if two variable don't contain the same value. we get a true if they are not same.
+
